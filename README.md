@@ -32,7 +32,6 @@ Interface visual com gráficos, filtros suspensos e resumos automáticos para fa
 ### 🧩 Pergunta 1
 **Qual o faturamento total de vendas de planos anuais?**
 - **Dado gerado:** R$ 3.571,00
-- **Gráfico:** Colunas verticais agrupadas
 
 ---
 
@@ -41,35 +40,31 @@ Interface visual com gráficos, filtros suspensos e resumos automáticos para fa
 - **Dado gerado:**  
   - `Yes`: R$ 747,00  
   - `No`: R$ 2.824,00
-- **Gráfico:** Gráfico de colunas lado a lado
+
 
 ---
 
 ### 🧩 Pergunta 3
 **Total de vendas de assinaturas EA Play**
 - **Dado gerado:** R$ 1.350,00
-- **Gráfico:** Coluna por tipo de plano (só *Ultimate* possui)
 
 ---
 
 ### 🧩 Pergunta 4
 **Total de vendas de Minecraft Season Pass**
 - **Dado gerado:** R$ 1.800,00
-- **Gráfico:** Coluna comparando *Standard* e *Ultimate*
 
 ---
 
 ### 🧩 Pergunta 5
 **Distribuição de assinantes por tipo de plano e status de renovação**
 - **Dado gerado:** Tabela cruzada
-- **Gráfico:** Barras empilhadas
 
 ---
 
 ### 🧩 Pergunta 6
 **Valor total em cupons aplicados por plano**
 - **Dado gerado:** Soma por tipo de assinatura
-- **Gráfico:** Colunas agrupadas
 
 ---
 
@@ -79,7 +74,6 @@ Interface visual com gráficos, filtros suspensos e resumos automáticos para fa
   Exemplo:  
   - `Ultimate`: R$ X  
   - `Standard`: R$ Y  
-- **Gráfico:** Colunas
 
 ---
 
