@@ -68,20 +68,6 @@ Interface visual com gráficos, filtros suspensos e resumos automáticos para fa
 
 ---
 
-### 🧩 Pergunta 7
-**Ticket médio por tipo de assinatura**
-- **Dado gerado:**  
-  Exemplo:  
-  - `Ultimate`: R$ X  
-  - `Standard`: R$ Y  
-
----
-
-### 🧩 Pergunta 8
-**Quantas pessoas têm cada tipo de plano?**
-- **Dado analisado:** Contagem de `Subscriber ID` por `Subscription Type`
----
-
 ## 🎨 Recursos Visuais
 
 O dashboard foi estilizado com cores temáticas:
